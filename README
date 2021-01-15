@@ -1,0 +1,39 @@
+shimmy10
+204693352
+Shimon Balsam
+
+costico
+312893597
+Constantin Shafranski
+
+We discussed the exercise with: no one.
+
+=============================
+= README for ex5: ex5.py
+=============================
+
+===========================
+=  Description: =
+
+One program which defines different functions which compare between prices
+of products in different supermarket across the country, in order to find the
+cheapest supermarkets to buy at, per chosen product\s, or in general.
+
+More specifically, the program can load XML files, create it's own sub-files
+out of the XML files, and load whichever of the files the user chooses.
+
+Furthermore, the program allows the user to filter out and choose specific
+products he is interested in, within said files, and compare only their prices
+at the different supermarkets he chose.
+
+Once completed, this programmed can be imported by a 'gui' program for
+activation and will show the cheapest option in red.
+====================================================
+
+
+===================================
+= Special Comments =
+
+None
+======================
+
